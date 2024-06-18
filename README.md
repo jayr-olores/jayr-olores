@@ -1,12 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Jay-r Olores</h1>
 <h3 align="center">A passionate BSIT student from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayr-olores&label=Profile%20views&color=0e75b6&style=flat" alt="jayr-olores" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayr-olores" alt="jayr-olores" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, Node JS, Kotlin, C#, Java**
 
