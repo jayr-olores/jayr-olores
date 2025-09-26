@@ -1,28 +1,49 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Jay-r Olores</h1>
-<h3 align="center">A passionate BSIT student from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+# 👋 Hi, I’m Jay-r Olores  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayr-olores&label=Profile%20views&color=0e75b6&style=flat" alt="jayr-olores" /> </p>
+💡 *Turning coffee into code & ideas into systems*  
 
-- 🌱 I’m currently learning **React JS, Node JS, Kotlin, Firebase**
+---
 
-- 💬 Ask me about **MERN**
+## 🚀 About Me  
+- 🎓 Graduate IT Student & Developer  
+- 💻 Currently building **UnitechHR** – a smart HRIS for universities  
+- ⚡ Passionate about **web development, AI/ML, and cloud computing**  
+- 🌱 Currently learning **n8n** (automation workflows), **Java**, and **Docker**  
+- 🎯 Goal: To create impactful systems that make people’s lives easier  
 
-- 📫 How to reach me **jayrmalazarte.olores@gmail.com**
+---
 
-- ⚡ Fun fact **Just having fun learning.**
+## 🛠️ Tech Stack  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jayr.malazarte.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayr.malazarte.58" height="30" width="40" /></a>
-<a href="https://instagram.com/jyr_ol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyr_ol" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tranquillitatis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tranquillitatis" height="30" width="40" /></a>
-</p>
+**Languages & Frameworks**  
+`React` | `ASP.NET C#` | `FastAPI` | `Node.js` | `Java`  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+**Databases**  
+`Firebase` | `MongoDB` | `SQL Server`  
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayr-olores&show_icons=true&locale=en" alt="jayr-olores" /></p>
+**Tools & Platforms**  
+`Git` | `TailwindCSS` | `Vercel` | `Azure` | `n8n` | `Docker`  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayr-olores&" alt="jayr-olores" /></p>
+---
+
+## 📊 GitHub Stats  
+
+![Jay-r’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jayr-o1&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayr-o1&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Connect With Me  
+
+- 📧 Email: **jayrmalazarte.olores@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/jayr-olores)  
+
+---
+
+## ✨ Fun Fact  
+When I’m not coding, you’ll probably find me 🎮 gaming, 🎵 listening to music, or ⚡ tinkering with new tech.  
+
+---
+
+👉 *"The best way to predict the future is to create it."*  
